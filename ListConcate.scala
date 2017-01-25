@@ -1,3 +1,9 @@
+/**
+* Write a function that concatenates a list of lists into a single list. Its runtime should be linear in the total length of all lists. The signature of the method should be:
+* def concateList[A](l1:List[A],l2:List[A]):List[A]
+* (Note: You can use Pattern matching over lists to implement the method. But, do not use any provided methods as solutions)
+*/
+
 class Concatination
 {
   
