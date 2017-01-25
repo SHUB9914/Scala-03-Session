@@ -1,3 +1,9 @@
+/**
+*	Write a function that splits a list elements into a pair of lists on the basis of given boolean function. 
+* The signature of the method should be:
+* def splitList[A](l:List[A],f:A=>Boolean):(List[A],List[B])
+* (Note: Do not use method filter provided in the library)
+*/
 class ListDemo
 {
   
